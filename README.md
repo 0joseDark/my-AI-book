@@ -90,3 +90,54 @@
   - Super-resolução de imagens.
   - Estilização de imagens (*Deep Art*).
 
+Aqui está um exemplo de um script em Python que implementa uma **Rede Neural Convolucional (CNN)** para classificar imagens usando a biblioteca Keras (que faz parte do TensorFlow). O script usa o conjunto de dados **MNIST**, que contém imagens de dígitos manuscritos (de 0 a 9).
+
+Este exemplo é para **Windows 10** e está em **português europeu**, com explicações passo a passo.
+
+---
+
+### **Instalar os Módulos Necessários**
+Antes de começar, instale os módulos necessários executando no terminal:
+
+```bash
+pip install tensorflow matplotlib
+```
+
+### **Explicação do Código**
+1. **Carregar os Dados**:
+   - O conjunto de dados MNIST contém imagens 28x28 em escala de cinza.
+   - `x_train` e `x_test` são imagens. `y_train` e `y_test` são os rótulos (números entre 0 e 9).
+
+2. **Pré-processamento**:
+   - Normaliza os valores dos píxeis para [0, 1].
+   - Redimensiona as imagens para incluir o canal.
+
+3. **Construir a CNN**:
+   - Camada convolucional extrai características da imagem.
+   - Camada de pooling reduz a dimensão espacial.
+   - Camada totalmente conectada toma decisões baseando-se nas características.
+
+4. **Treino**:
+   - Usa 5 épocas (passagens por todo o conjunto de treino).
+   - Divide 20% do conjunto de treino para validação.
+
+5. **Avaliação**:
+   - Mede a precisão do modelo no conjunto de teste.
+
+6. **Visualização**:
+   - Plota a precisão do treino e validação ao longo das épocas.
+
+7. **Previsões**:
+   - Mostra as previsões para as primeiras 5 imagens do conjunto de teste.
+
+---
+
+### **Executar no Windows 10**
+1. Certifique-se de que tem o Python instalado (preferencialmente versão 3.8 ou superior).
+2. Instale os módulos usando `pip`.
+3. Salve o script acima num ficheiro `.py` (por exemplo, `cnn_mnist.py`).
+4. Execute o script no terminal:
+
+```bash
+python cnn_mnist.py
+```
