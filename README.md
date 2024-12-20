@@ -271,3 +271,59 @@ for i, pred in enumerate(previsoes):
 - **`pred.argmax()`**: Retorna o índice do maior valor, que corresponde à classe prevista.
 - **`plt.imshow()`**: Exibe cada imagem.
 - **`plt.title()`**: Adiciona a previsão como título.
+Para instalar o módulo **TensorFlow** no Windows 10, siga estes passos:
+
+---
+
+### **1. Verifique a versão do Python**
+TensorFlow requer **Python 3.7 ou superior**. Abra o terminal (Prompt de Comando, PowerShell ou terminal do VS Code) e execute:
+```bash
+python --version
+```
+Se a versão for inferior a 3.7, atualize o Python [a partir do site oficial](https://www.python.org/downloads/).
+
+---
+
+### **2. Instale o TensorFlow**
+No terminal, use o comando **`pip`** para instalar o TensorFlow:
+```bash
+pip install tensorflow
+```
+
+---
+
+### **3. Verifique a instalação**
+Após a instalação, confirme se o TensorFlow foi instalado corretamente executando:
+```bash
+python -c "import tensorflow as tf; print(tf.__version__)"
+```
+Este comando deve retornar a versão do TensorFlow instalada, como por exemplo:
+```
+2.13.0
+```
+
+---
+
+### **4. Resolução de possíveis erros**
+- **Erro: "pip não é reconhecido"**  
+  Certifique-se de que o Python e o `pip` estão adicionados ao PATH do sistema. Reinstale o Python e marque a opção **"Add Python to PATH"**.
+
+- **Erro de versão incompatível**  
+  Certifique-se de que está usando uma versão de Python compatível com TensorFlow.
+
+- **Erro de dependências**  
+  Atualize o `pip` antes da instalação:
+  ```bash
+  python -m pip install --upgrade pip
+  ```
+
+---
+
+### **5. GPU (opcional)**
+Se você deseja usar o TensorFlow com suporte a GPU (para maior desempenho), siga estas etapas adicionais:
+1. Instale os drivers necessários da NVIDIA (CUDA e cuDNN).
+2. Verifique os requisitos de versão no [guia oficial do TensorFlow](https://www.tensorflow.org/install/gpu).
+3. Instale a versão GPU:
+   ```bash
+   pip install tensorflow
+   ```
