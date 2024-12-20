@@ -25,3 +25,68 @@
 - Geração de conteúdo.
 
 😊
+**CNN** refere-se a uma **Rede Neural Convolucional** (*Convolutional Neural Network*), um tipo específico de rede neural projetada para processar e analisar dados que têm uma estrutura de grade, como imagens. CNNs são amplamente utilizadas em visão computacional e outras áreas que envolvem reconhecimento de padrões.
+
+---
+
+### **Como uma CNN funciona?**
+
+1. **Camadas Convolucionais**:
+   - A convolução é o processo central de uma CNN.
+   - Nessa etapa, são usados *filtros* (ou *kernels*), que são pequenos conjuntos de pesos que percorrem a imagem de entrada para extrair características, como bordas, texturas ou formas.
+   - O resultado dessa operação é um mapa de características (*feature map*).
+
+2. **Camadas de Pooling (Subamostragem)**:
+   - Reduzem a dimensão dos mapas de características, mantendo informações importantes e diminuindo a complexidade computacional.
+   - Tipos comuns:
+     - *Max pooling*: Retém o valor máximo em uma região.
+     - *Average pooling*: Calcula a média dos valores em uma região.
+
+3. **Camadas de Ativação**:
+   - Aplicam funções não-lineares, como ReLU (*Rectified Linear Unit*), para introduzir não-linearidade ao modelo e permitir a aprendizagem de padrões mais complexos.
+
+4. **Camadas Totalmente Conectadas**:
+   - Transformam os mapas de características em uma única saída (como uma classificação).
+   - Nessa etapa, cada neurónio está conectado a todos os neurónios da camada anterior.
+
+5. **Camada de Saída**:
+   - Fornece o resultado final (como a probabilidade de cada classe em problemas de classificação).
+
+---
+
+### **Estrutura Geral de uma CNN**
+
+1. **Entrada**: 
+   - Imagem ou outro tipo de dado.
+   - Exemplo: Uma imagem RGB de 224x224x3.
+
+2. **Camadas Convolucionais + Pooling**:
+   - Extraem características importantes das entradas.
+
+3. **Camadas Totalmente Conectadas**:
+   - Integram as características extraídas e tomam decisões com base nelas.
+
+4. **Saída**:
+   - Predição/classificação.
+   - Exemplo: "É um gato ou um cachorro?".
+
+---
+
+### **Exemplos de Aplicações de CNNs**
+
+- **Visão Computacional**:
+  - Reconhecimento facial.
+  - Classificação de imagens (e.g., ImageNet).
+  - Deteção de objetos (e.g., YOLO, SSD).
+
+- **Saúde**:
+  - Diagnóstico de doenças a partir de radiografias ou ressonâncias.
+
+- **Condução Autónoma**:
+  - Análise de imagens de câmaras para identificar estradas, sinais de trânsito e pedestres.
+
+- **Outras Áreas**:
+  - Análise de vídeos.
+  - Super-resolução de imagens.
+  - Estilização de imagens (*Deep Art*).
+
