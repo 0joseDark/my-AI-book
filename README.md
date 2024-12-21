@@ -24,7 +24,7 @@
 - Condução autónoma.
 - Geração de conteúdo.
 
-😊
+
 **CNN** refere-se a uma **Rede Neural Convolucional** (*Convolutional Neural Network*), um tipo específico de rede neural projetada para processar e analisar dados que têm uma estrutura de grade, como imagens. CNNs são amplamente utilizadas em visão computacional e outras áreas que envolvem reconhecimento de padrões.
 
 ---
