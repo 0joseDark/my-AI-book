@@ -1,6 +1,3 @@
-Segue o índice desenvolvido no formato Markdown, com uma estrutura clara e organizada:
-
-```markdown
 # Introdução aos Módulos Python
 
 ## Bem-vindo
@@ -34,5 +31,3 @@ Este projeto foi criado para fornecer uma visão geral dos módulos Python mais 
 
 &copy; 2024 - Introdução aos Módulos Python
 ```
-
-Se precisar de mais detalhes ou modificações, avise-me!
