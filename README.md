@@ -92,10 +92,6 @@
 
 Aqui está um exemplo de um script em Python que implementa uma **Rede Neural Convolucional (CNN)** para classificar imagens usando a biblioteca Keras (que faz parte do TensorFlow). O script usa o conjunto de dados **MNIST**, que contém imagens de dígitos manuscritos (de 0 a 9).
 
-Este exemplo é para **Windows 10** e está em **português europeu**, com explicações passo a passo.
-
----
-
 ### **Instalar os Módulos Necessários**
 Antes de começar, instale os módulos necessários executando no terminal:
 
