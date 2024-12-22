@@ -1,7 +1,6 @@
 # Introdução aos Módulos Python
 
 ## Bem-vindo
-Bem-vindo ao guia de módulos Python! Aqui você encontrará informações detalhadas sobre módulos específicos para Windows 10 e Ubuntu Linux.
 
 ## Índice
 - [Introdução aos Módulos Python](#introdução-aos-módulos-python)
