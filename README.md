@@ -1,5 +1,5 @@
 # NN-neural-network
-"NN" pode referir-se a **rede neural** (em inglês, *neural network*), que é um modelo computacional inspirado no funcionamento do cérebro humano. As redes neurais são amplamente utilizadas em inteligência artificial e aprendizagem de máquina para resolver problemas como reconhecimento de padrões, classificação, previsão, tradução automática, entre outros.
+**rede neural** (em inglês, *neural network*), que é um modelo computacional inspirado no funcionamento do cérebro humano. As redes neurais são amplamente utilizadas em inteligência artificial e aprendizagem de máquina para resolver problemas como reconhecimento de padrões, classificação, previsão, tradução automática, entre outros.
 
 ### Estrutura de uma Rede Neural:
 1. **Neurónios**: São as unidades básicas, semelhantes aos neurónios biológicos. Eles recebem entradas, processam informações e transmitem saídas.
