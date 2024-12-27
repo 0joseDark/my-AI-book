@@ -14,9 +14,6 @@
 - [Módulos para Windows 10](modulos_windows.md)
 - [Módulos para Ubuntu Linux](modulos_ubuntu.md)
 
-## Bem-vindo
-Bem-vindo à introdução aos módulos Python, um guia para explorar módulos úteis tanto para Windows 10 quanto para Ubuntu Linux.
-
 ## Navegação por Temas
 
 ### Sistemas Operativos
