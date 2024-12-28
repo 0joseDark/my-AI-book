@@ -73,4 +73,4 @@
 
 ---
 
-Essas áreas continuam a evoluir rapidamente, com novas aplicações emergindo à medida que a tecnologia avança e as necessidades crescem. Deseja aprofundar em alguma dessas áreas?
+Essas áreas continuam a evoluir rapidamente, com novas aplicações emergindo à medida que a tecnologia avança e as necessidades crescem.
