@@ -1,4 +1,4 @@
-# Introdução aos Módulos Python
+# Introdução aos Módulos Python para AI
 
 ## Bem-vindo
 
