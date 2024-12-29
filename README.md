@@ -22,8 +22,7 @@ under construction
 ---
    [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
 ---
-   - Ambientes de desenvolvimento recomendados ([Jupyter](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
-, VSCode [Acesse o Google](https://www.google.com), PyCharm [Acesse o Google](https://www.google.com)).
+   - Ambientes de desenvolvimento recomendados ([Jupyter](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md), [VSCode](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/VSCode.md), [PyCharm](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/PyCharm.md)).
    - - escolhi usar o Jupyter
 
 5. **Módulos Essenciais**
