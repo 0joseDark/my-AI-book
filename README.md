@@ -8,6 +8,7 @@
    - O que é Inteligência Artificial?
    - Por que usar Python para AI?
    - Principais áreas de aplicação.
+   - - área escolhida: Automação Industrial, Robótica
 
 2. **Configuração do Ambiente**
    - Configuração para Windows.
