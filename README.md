@@ -7,15 +7,21 @@
 ## Índice - Introdução aos Módulos Python para AI
 
 1. **Introdução Geral**
-   - O que é Inteligência Artificial?
-   - Por que usar Python para AI?
-   - Principais áreas de aplicação.
+   . [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
+
+   - Por que usar Python para AI? [Acesse o Google](https://www.google.com)
+
+   - Principais áreas de aplicação. [Acesse o Google](https://www.google.com)
+
    - - área escolhida: Automação Industrial, Robótica
 
 2. **Configuração do Ambiente**
-   - Configuração para Windows.
-   - Configuração para Ubuntu/Linux.
-   - Ambientes de desenvolvimento recomendados (Jupyter, VSCode, PyCharm).
+   - Configuração para Windows. [Acesse o Google](https://www.google.com)
+
+   - Configuração para Ubuntu/Linux. [Acesse o Google](https://www.google.com)
+
+   - Ambientes de desenvolvimento recomendados (Jupyter [Acesse o Google](https://www.google.com)
+, VSCode, PyCharm).
    - - escolhi usar o Jupyter
 
 3. **Módulos Essenciais**
