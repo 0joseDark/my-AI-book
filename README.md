@@ -12,16 +12,16 @@ under construction
 ---
  [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
 ---
-[Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
----
+ [Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
+--- 
 - - área escolhida: Automação Industrial, Robótica
 
 3. **Configuração do Ambiente**
 ---
    [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
 ---
-   - Configuração para Ubuntu/Linux. [Acesse o Google](https://www.google.com)
-
+   [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
+---
    - Ambientes de desenvolvimento recomendados (Jupyter [Acesse o Google](https://www.google.com)
 , VSCode, PyCharm).
    - - escolhi usar o Jupyter
