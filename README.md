@@ -9,9 +9,9 @@ under construction
 1. **Introdução Geral**
 ---
  [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
-
-   - Por que usar Python para AI? [Acesse o Google](https://www.google.com)
-
+---
+ [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
+---
    - Principais áreas de aplicação. [Acesse o Google](https://www.google.com)
 
    - - área escolhida: Automação Industrial, Robótica
