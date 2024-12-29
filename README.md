@@ -14,6 +14,7 @@
    - Configuração para Windows.
    - Configuração para Ubuntu/Linux.
    - Ambientes de desenvolvimento recomendados (Jupyter, VSCode, PyCharm).
+   - - escolhi usar o Jupyter
 
 3. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
