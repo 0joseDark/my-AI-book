@@ -7,6 +7,7 @@ under construction
 ## Índice - Introdução aos Módulos Python para AI
 
 1. **Introdução Geral**
+---
  [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
 
    - Por que usar Python para AI? [Acesse o Google](https://www.google.com)
@@ -15,7 +16,7 @@ under construction
 
    - - área escolhida: Automação Industrial, Robótica
 
-2. **Configuração do Ambiente**
+3. **Configuração do Ambiente**
    - Configuração para Windows. [Acesse o Google](https://www.google.com)
 
    - Configuração para Ubuntu/Linux. [Acesse o Google](https://www.google.com)
@@ -24,7 +25,7 @@ under construction
 , VSCode, PyCharm).
    - - escolhi usar o Jupyter
 
-3. **Módulos Essenciais**
+4. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
      - `scikit-learn`
      - `TensorFlow`
@@ -48,12 +49,12 @@ under construction
      - `joblib`
      - `Seaborn`
 
-4. **Exemplos Práticos**
+5. **Exemplos Práticos**
    - Classificação de dados com `scikit-learn`.
    - Reconhecimento de imagens com `TensorFlow`.
    - Análise de sentimentos com `spaCy`.
 
-5. **Implementação em Sistemas Operacionais**
+6. **Implementação em Sistemas Operacionais**
    - **Windows**:
      - Instalação de módulos.
      - Configuração de drivers e GPUs.
@@ -61,16 +62,16 @@ under construction
      - Instalação via `pip` e `apt`.
      - Suporte a hardware e clusters.
 
-6. **Recursos Avançados**
+7. **Recursos Avançados**
    - Treinamento distribuído.
    - Exportação e deployment de modelos.
    - Conexão com APIs externas.
 
-7. **Conclusão e Próximos Passos**
+8. **Conclusão e Próximos Passos**
    - Como expandir seus conhecimentos.
    - Comunidades e fóruns úteis.
    - Leituras recomendadas.
 
-8. **Contato**
+9. **Contato**
    - Formulário de contato.
    - Links para recursos externos.
