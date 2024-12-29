@@ -17,15 +17,16 @@ under construction
 - - área escolhida: Automação Industrial, Robótica
 
 3. **Configuração do Ambiente**
-   - Configuração para Windows. [Acesse o Google](https://www.google.com)
-
+---
+   [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
+---
    - Configuração para Ubuntu/Linux. [Acesse o Google](https://www.google.com)
 
    - Ambientes de desenvolvimento recomendados (Jupyter [Acesse o Google](https://www.google.com)
 , VSCode, PyCharm).
    - - escolhi usar o Jupyter
 
-4. **Módulos Essenciais**
+5. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
      - `scikit-learn`
      - `TensorFlow`
@@ -49,12 +50,12 @@ under construction
      - `joblib`
      - `Seaborn`
 
-5. **Exemplos Práticos**
+6. **Exemplos Práticos**
    - Classificação de dados com `scikit-learn`.
    - Reconhecimento de imagens com `TensorFlow`.
    - Análise de sentimentos com `spaCy`.
 
-6. **Implementação em Sistemas Operacionais**
+7. **Implementação em Sistemas Operacionais**
    - **Windows**:
      - Instalação de módulos.
      - Configuração de drivers e GPUs.
@@ -62,16 +63,16 @@ under construction
      - Instalação via `pip` e `apt`.
      - Suporte a hardware e clusters.
 
-7. **Recursos Avançados**
+8. **Recursos Avançados**
    - Treinamento distribuído.
    - Exportação e deployment de modelos.
    - Conexão com APIs externas.
 
-8. **Conclusão e Próximos Passos**
+9. **Conclusão e Próximos Passos**
    - Como expandir seus conhecimentos.
    - Comunidades e fóruns úteis.
    - Leituras recomendadas.
 
-9. **Contato**
+10. **Contato**
    - Formulário de contato.
    - Links para recursos externos.
