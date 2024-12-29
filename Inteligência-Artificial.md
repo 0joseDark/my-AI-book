@@ -1,3 +1,5 @@
+![fornos palhais](https://github.com/0joseDark/my-AI-book/blob/main/images/fornos-palhais.jpg)
+
 **O que é Inteligência Artificial?**  
 
 A **Inteligência Artificial (IA)** é um ramo da ciência da computação que se concentra no desenvolvimento de sistemas capazes de realizar tarefas que, quando realizadas por seres humanos, requerem inteligência. Essas tarefas incluem aprendizagem, raciocínio, resolução de problemas, compreensão da linguagem natural e percepção.
