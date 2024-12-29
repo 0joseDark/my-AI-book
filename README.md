@@ -7,7 +7,7 @@
 ## Índice - Introdução aos Módulos Python para AI
 
 1. **Introdução Geral**
-   . [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
+   . - [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
 
    - Por que usar Python para AI? [Acesse o Google](https://www.google.com)
 
