@@ -12,9 +12,9 @@ under construction
 ---
  [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
 ---
-   - Principais áreas de aplicação. [Acesse o Google](https://www.google.com)
-
-   - - área escolhida: Automação Industrial, Robótica
+[Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
+---
+- - área escolhida: Automação Industrial, Robótica
 
 3. **Configuração do Ambiente**
    - Configuração para Windows. [Acesse o Google](https://www.google.com)
