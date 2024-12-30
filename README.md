@@ -1,7 +1,7 @@
 ![lagos](https://github.com/0joseDark/my-AI-book/blob/main/images/lagos-.jpg)
 
 # Introdução aos Módulos Python para AI
-- [english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/%C3%8Dndice.md)
+- [english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
 - under construction
 ## Bem-vindo
 
