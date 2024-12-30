@@ -3,38 +3,62 @@
 - [Portuguese version](https://github.com/0joseDark/my-AI-book/blob/main/README.md)
 
 1. **General Introduction**  
-   - What is Artificial Intelligence?  
-   - Why use Python for AI?  
-   - Main areas of application.  
+   - What is Artificial Intelligence?  [Acesse o Google](https://www.google.com)
+
+   - Why use Python for AI?  [Acesse o Google](https://www.google.com)
+
+   - Main areas of application. [Acesse o Google](https://www.google.com)
+ 
 
 2. **Environment Setup**  
-   - Configuration for Windows.  
-   - Configuration for Ubuntu/Linux.  
-   - Recommended development environments (Jupyter, VSCode, PyCharm).  
+   - Configuration for Windows.  [Acesse o Google](https://www.google.com)
+
+   - Configuration for Ubuntu/Linux. [Acesse o Google](https://www.google.com)
+ 
+   - Recommended development environments (Jupyter[Acesse o Google](https://www.google.com)
+, VSCode[Acesse o Google](https://www.google.com)
+, PyCharm[Acesse o Google](https://www.google.com)
+).  
 
 3. **Essential Modules**  
    - **Machine Learning**:  
-     - `scikit-learn`  
-     - `TensorFlow`  
-     - `PyTorch`  
+     - `scikit-learn`  [Acesse o Google](https://www.google.com)
+
+     - `TensorFlow`  [Acesse o Google](https://www.google.com)
+
+     - `PyTorch`  [Acesse o Google](https://www.google.com)
+
    - **Data Processing**:  
-     - `NumPy`  
-     - `Pandas`  
-     - `Matplotlib`  
+     - `NumPy`  [Acesse o Google](https://www.google.com)
+
+     - `Pandas`  [Acesse o Google](https://www.google.com)
+
+     - `Matplotlib`  [Acesse o Google](https://www.google.com)
+
    - **Computer Vision**:  
-     - `OpenCV`  
-     - `Pillow`  
-     - `mediapipe`  
+     - `OpenCV` [Acesse o Google](https://www.google.com)
+ 
+     - `Pillow` [Acesse o Google](https://www.google.com)
+ 
+     - `mediapipe`  [Acesse o Google](https://www.google.com)
+
    - **Natural Language Processing (NLP)**:  
-     - `spaCy`  
-     - `NLTK`  
-     - `Transformers`  
+     - `spaCy`  [Acesse o Google](https://www.google.com)
+
+     - `NLTK` [Acesse o Google](https://www.google.com)
+ 
+     - `Transformers` [Acesse o Google](https://www.google.com)
+ 
    - **Neural Networks**:  
-     - `Keras`  
-     - `Theano`  
+     - `Keras`  [Acesse o Google](https://www.google.com)
+
+     - `Theano`  [Acesse o Google](https://www.google.com)
+
    - **Other Useful Modules**:  
-     - `joblib`  
-     - `Seaborn`  
+     - `joblib`  [Acesse o Google](https://www.google.com)
+
+     - `Seaborn`  [Acesse o Google](https://www.google.com)
+
 
 4. **Practical Examples**  
    - Data classification with `scikit-learn`.  
