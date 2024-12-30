@@ -60,11 +60,3 @@
 8. **Contato**
    - Formulário de contato.
    - Links para recursos externos.
-
----
-
-### Como utilizar o Índice:
-
-- Cada item pode ser uma seção ou subpágina no seu projeto.
-- Você pode transformar as seções em links navegáveis no arquivo `index.html` ou em outras páginas HTML específicas, como `modulos_windows.html` e `modulos_ubuntu.html`.
-- Use os módulos listados para criar exemplos práticos e código comentado.
