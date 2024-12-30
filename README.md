@@ -9,19 +9,19 @@
 
 1. **Introdução Geral**
 ---
- [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
+ - [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
 ---
- [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
+ - [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
 ---
- [Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
+ - [Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
 --- 
 - - área escolhida: Automação Industrial, Robótica
 
 3. **Configuração do Ambiente**
 ---
-   [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
+   - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
 ---
-   [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
+   - [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
 ---
    - Ambientes de desenvolvimento recomendados ([Jupyter](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md), [VSCode](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/VSCode.md), [PyCharm](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/PyCharm.md)).
    - - escolhi usar o Jupyter
