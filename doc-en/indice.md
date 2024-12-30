@@ -3,7 +3,7 @@
 - [Portuguese version](https://github.com/0joseDark/my-AI-book/blob/main/README.md)
 
 1. **General Introduction**  
-   - What is Artificial Intelligence?  [Acesse o Google](https://www.google.com)
+   - [What is Artificial Intelligence?](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/Artificial-Intelligence.md)
 
    - Why use Python for AI?  [Acesse o Google](https://www.google.com)
 
