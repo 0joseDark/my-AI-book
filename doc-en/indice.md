@@ -5,9 +5,9 @@
 1. **General Introduction**  
    - [What is Artificial Intelligence?](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/Artificial-Intelligence.md)
 
-   - Why use Python for AI?  [Acesse o Google](https://www.google.com)
+   - [Why use Python for AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/Application-Areas.md)
 
-   - Main areas of application. [Acesse o Google](https://www.google.com)
+   - [Main areas of application](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/Application-Areas.md)
  
 
 2. **Environment Setup**  
