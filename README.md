@@ -8,15 +8,15 @@
 ## Índice - Introdução aos Módulos Python para AI
 
 1. **Introdução Geral**
----
- - [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
----
- - [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
----
- - [Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
---- 
-- - área escolhida: Automação Industrial, Robótica
 
+ - [O que é Inteligência Artificial?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Intelig%C3%AAncia-Artificial.md)
+
+ - [Por que usar Python para AI?](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/usar-Python.md)
+
+ - [Principais áreas de aplicação.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/%C3%A1reas-de-aplica%C3%A7%C3%A3o.md)
+
+- - área escolhida: Automação Industrial, Robótica
+2. **Configuração do Ambiente**
 3. **Configuração do Ambiente**
 ---
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
