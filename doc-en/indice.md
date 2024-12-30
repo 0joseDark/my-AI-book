@@ -1,5 +1,6 @@
 ![fornos palhais](https://github.com/0joseDark/my-AI-book/blob/main/images/fornos-palhais.jpg)
 ### **Index - Introduction to Python Modules for AI**
+- [Portuguese version](https://github.com/0joseDark/my-AI-book/blob/main/README.md)
 
 1. **General Introduction**  
    - What is Artificial Intelligence?  
