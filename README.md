@@ -2,7 +2,7 @@
 
 # Introdução aos Módulos Python para AI
 - [english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/%C3%8Dndice.md)
-under construction
+- under construction
 ## Bem-vindo
 
 ## Índice - Introdução aos Módulos Python para AI
