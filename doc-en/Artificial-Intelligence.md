@@ -28,6 +28,4 @@
 ### Objectives of AI:
 - Enable machines to solve complex problems.  
 - Enhance human efficiency across various domains.  
-- Create systems that operate autonomously and adaptively.  
-
-![fornos palhais](https://github.com/0joseDark/my-AI-book/blob/main/images/fornos-palhais.jpg)
+- Create systems that operate autonomously and adaptively.
