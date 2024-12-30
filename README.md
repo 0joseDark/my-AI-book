@@ -22,7 +22,7 @@
   - - Ambientes de desenvolvimento recomendados ([Jupyter](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md), [VSCode](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/VSCode.md), [PyCharm](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/PyCharm.md)).
    - - escolhi usar o Jupyter
 
-5. **Módulos Essenciais**
+3. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
      - `scikit-learn`
      - `TensorFlow`
@@ -46,12 +46,12 @@
      - `joblib`
      - `Seaborn`
 
-6. **Exemplos Práticos**
+4. **Exemplos Práticos**
    - Classificação de dados com `scikit-learn`.
    - Reconhecimento de imagens com `TensorFlow`.
    - Análise de sentimentos com `spaCy`.
 
-7. **Implementação em Sistemas Operacionais**
+5. **Implementação em Sistemas Operacionais**
    - **Windows**:
      - Instalação de módulos.
      - Configuração de drivers e GPUs.
@@ -59,16 +59,16 @@
      - Instalação via `pip` e `apt`.
      - Suporte a hardware e clusters.
 
-8. **Recursos Avançados**
+6. **Recursos Avançados**
    - Treinamento distribuído.
    - Exportação e deployment de modelos.
    - Conexão com APIs externas.
 
-9. **Conclusão e Próximos Passos**
+7. **Conclusão e Próximos Passos**
    - Como expandir seus conhecimentos.
    - Comunidades e fóruns úteis.
    - Leituras recomendadas.
 
-10. **Contato**
+8. **Contato**
    - Formulário de contato.
    - Links para recursos externos.
