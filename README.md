@@ -63,6 +63,8 @@
    - Treinamento distribuído.
    - Exportação e deployment de modelos.
    - Conexão com APIs externas.
+   - - [AI rewards](https://theirf.org/wp-content/uploads/2018/09/2018-ai-study-white-paper-part-2.pdf)
+
 
 7. **Conclusão e Próximos Passos**
    - Como expandir seus conhecimentos.
