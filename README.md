@@ -29,6 +29,7 @@
      - [TensorFlow gpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-GPU.md)
      - [PyTorch](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/PyTorch.md)
      - - [PyTorch modules](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/list-PyTorch-modules.md)
+       - [torchvision](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/torchvision.md)
    - **Processamento de Dados**:
      - [NumPy](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/NumPy.md)
      - [Pandas](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Pandas.md)
