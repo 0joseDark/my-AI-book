@@ -33,9 +33,9 @@
      - [Pandas](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Pandas.md)
      - [Matplotlib](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Matplotlib.md)
    - **Visão Computacional**:
-     - `OpenCV`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
-     - `Pillow`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
-     - `mediapipe`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - [OpenCV](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/OpenCV.md)
+     - [Pillow](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Pillow.md)
+     - [mediapipe](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/MediaPipe.md)
    - **Processamento de Linguagem Natural (NLP)**:
      - `spaCy`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
      - `NLTK`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
