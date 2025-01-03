@@ -24,9 +24,10 @@
 
 3. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
-     - `scikit-learn`
-     - `TensorFlow`
-     - `PyTorch`
+     - [scikit-learn](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/scikit-learn.md)
+     - - `[TensorFlow cpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-cpu.md)
+     - - `[TensorFlow gpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-GPU.md)
+     - [PyTorch](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/PyTorch.md)
    - **Processamento de Dados**:
      - `NumPy`
      - `Pandas`
