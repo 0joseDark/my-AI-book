@@ -37,9 +37,9 @@
      - [Pillow](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Pillow.md)
      - [mediapipe](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/MediaPipe.md)
    - **Processamento de Linguagem Natural (NLP)**:
-     - `spaCy`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
-     - `NLTK`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
-     - `Transformers`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - [spaCy](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/spaCy.md)
+     - [NLTK](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/NLTK.md)
+     - [Transformers](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Transformers.md)
    - **Redes Neurais**:
      - `Keras`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
      - `Theano`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
