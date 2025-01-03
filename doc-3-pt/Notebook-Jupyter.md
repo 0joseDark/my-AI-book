@@ -1,4 +1,4 @@
-Claro! Jupyter Notebook é uma ferramenta poderosa que permite criar e compartilhar documentos que contêm código executável, visualizações e texto explicativo. Aqui está um guia sobre como usar e desenvolver exemplos de código em Jupyter:
+Jupyter Notebook é uma ferramenta poderosa que permite criar e compartilhar documentos que contêm código executável, visualizações e texto explicativo. Aqui está um guia sobre como usar e desenvolver exemplos de código em Jupyter:
 
 ### 1. Instalando Jupyter Notebook
 
