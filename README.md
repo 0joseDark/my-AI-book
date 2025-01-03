@@ -25,27 +25,27 @@
 3. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
      - [scikit-learn](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/scikit-learn.md)
-     - - `[TensorFlow cpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-cpu.md)
-     - - `[TensorFlow gpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-GPU.md)
+     - [TensorFlow cpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-cpu.md)
+     - [TensorFlow gpu](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-GPU.md)
      - [PyTorch](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/PyTorch.md)
    - **Processamento de Dados**:
-     - `NumPy`
-     - `Pandas`
-     - `Matplotlib`
+     - [NumPy](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/NumPy.md)
+     - [Pandas](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Pandas.md)
+     - [Matplotlib](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Matplotlib.md)
    - **Visão Computacional**:
-     - `OpenCV`
-     - `Pillow`
-     - `mediapipe`
+     - `OpenCV`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - `Pillow`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - `mediapipe`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
    - **Processamento de Linguagem Natural (NLP)**:
-     - `spaCy`
-     - `NLTK`
-     - `Transformers`
+     - `spaCy`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - `NLTK`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - `Transformers`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
    - **Redes Neurais**:
-     - `Keras`
-     - `Theano`
+     - `Keras`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - `Theano`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
    - **Outros Módulos Úteis**:
-     - `joblib`
-     - `Seaborn`
+     - `joblib`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - `Seaborn`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
 
 4. **Exemplos Práticos**
    - Classificação de dados com `scikit-learn`.
