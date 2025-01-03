@@ -129,5 +129,3 @@ with torch.no_grad():  # Desativar cálculo de gradientes para teste
 
 5. **Produção**:
    - Utilizado em sistemas como recomendações, detecções em tempo real.
-
-Se precisar de mais exemplos ou ajuda com um projeto específico usando PyTorch, posso ajudar!
