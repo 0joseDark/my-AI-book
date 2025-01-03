@@ -41,8 +41,8 @@
      - [NLTK](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/NLTK.md)
      - [Transformers](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Transformers.md)
    - **Redes Neurais**:
-     - `Keras`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
-     - `Theano`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - [Keras](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Keras.md)
+     - [Theano](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Theano.md)
    - **Outros Módulos Úteis**:
      - `joblib`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
      - `Seaborn`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
