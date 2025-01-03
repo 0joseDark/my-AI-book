@@ -20,7 +20,7 @@
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
    - [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
   - - Ambientes de desenvolvimento recomendados ([Jupyter](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md), [VSCode](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/VSCode.md), [PyCharm](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/PyCharm.md)).
-   - - escolhi usar o Jupyter
+   - - escolhi usar o [Jupyter](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Notebook-Jupyter.md)
 
 3. **Módulos Essenciais**
    - **Aprendizado de Máquina**:
