@@ -44,8 +44,8 @@
      - [Keras](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Keras.md)
      - [Theano](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Theano.md)
    - **Outros Módulos Úteis**:
-     - `joblib`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
-     - `Seaborn`[english version](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/indice.md)
+     - [joblib](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/joblib.md)
+     - [Seaborn](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Seaborn.md)
 
 4. **Exemplos Práticos**
    - Classificação de dados com `scikit-learn`.
