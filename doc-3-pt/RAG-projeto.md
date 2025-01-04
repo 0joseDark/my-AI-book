@@ -1,6 +1,6 @@
 
 
-## Um projeto **RAG (Robô Autônomo Guiado)** com visão e capacidade de aprender e mapear caminhos em **Windows 10** pode ser desenvolvido utilizando Python e bibliotecas como **OpenCV** (para visão computacional), **NumPy** (para cálculos matemáticos), e um algoritmo de aprendizado como **Q-learning** para ensinar o robô a navegar e mapear caminhos.
+Projeto **RAG (Robô Autônomo Guiado)** com visão e capacidade de aprender e mapear caminhos em **Windows 10** pode ser desenvolvido utilizando Python e bibliotecas como **OpenCV** (para visão computacional), **NumPy** (para cálculos matemáticos), e um algoritmo de aprendizado como **Q-learning** para ensinar o robô a navegar e mapear caminhos.
 ---
 
 ### **1. Estrutura do Projeto**
