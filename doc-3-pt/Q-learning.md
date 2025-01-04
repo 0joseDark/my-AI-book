@@ -23,7 +23,7 @@
 4. **Q-tabela (Q):**
    - Uma tabela que armazena a qualidade de cada ação em cada estado. Inicialmente, é preenchida com zeros e é atualizada conforme o robô aprende.
 
-### 5. Equação de Atualização do Q-learning
+5. Equação de Atualização do Q-learning
 
 A equação de atualização do Q-learning é:
 
@@ -41,7 +41,7 @@ Q(s, a) \leftarrow Q(s, a) + \alpha \left[ R + \gamma \max_a Q(s', a) - Q(s, a) 
 - **\(\gamma\):** Fator de desconto (0 ≤ \(\gamma\) ≤ 1) — determina o peso das recompensas futuras.  
 - **\(\max_a Q(s', a)\):** O maior valor da função \(Q\) para todas as ações possíveis no estado \(s'\).  
 
-Essa equação atualiza iterativamente os valores na tabela Q, permitindo que o robô aprenda a tomar decisões melhores ao longo do tempo.
+- Essa equação atualiza iterativamente os valores na tabela Q, permitindo que o robô aprenda a tomar decisões melhores ao longo do tempo.
 ---
 
 ### Etapas para Implementar Q-learning
