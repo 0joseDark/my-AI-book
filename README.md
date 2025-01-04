@@ -17,6 +17,7 @@
 
 - - área escolhida: Automação Industrial, [Robótica](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/robots.md)
   - [Robótica Índice](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/%C3%ADndice-robotica.md)
+  - [Projeto RAG](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/RAG-projeto.md)
 2. **Configuração do Ambiente**
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
    - [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
