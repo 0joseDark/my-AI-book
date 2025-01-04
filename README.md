@@ -19,6 +19,7 @@
   - [Robótica Índice](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/%C3%ADndice-robotica.md)
   - [RAG índice](https://github.com/0joseDark/my-AI-book/blob/main/doc-1-pt/RAG-1.md)
   - [Projeto RAG](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/RAG-projeto.md)
+  - [Q-learning](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Q-learning.md)
 2. **Configuração do Ambiente**
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
    - [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
