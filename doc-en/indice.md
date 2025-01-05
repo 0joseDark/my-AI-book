@@ -10,7 +10,7 @@
    - [Main areas of application](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/Application-Areas.md)
    - - [robots](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/robots.md)
      - [Robotics-Index](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/Robotics-Index.md)
-     - [Acesse o Google](https://www.google.com)
+     - [RAG Index](https://github.com/0joseDark/my-AI-book/blob/main/doc-en/RAG.Index.md)
      - [Acesse o Google](https://www.google.com)
  
 
