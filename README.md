@@ -23,7 +23,8 @@
   - - [raspberrypi 5](https://www.raspberrypi.com)
   - - uma camera
     - projeto a estudar [picoGPT:](https://github.com/0joseDark/picoGPT)
-  - [Q-learning](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/Q-learning.md)
+    - another project:[bot](https://github.com/0joseDark/bo)
+  - [Q-learning]
 2. **Configuração do Ambiente**
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
    - [Configuração para Ubuntu/Linux.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/linux.md)
