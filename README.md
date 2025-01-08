@@ -24,6 +24,7 @@
   - - uma camera
     - projeto a estudar [picoGPT:](https://github.com/0joseDark/picoGPT)
     - another project:[bot](https://github.com/0joseDark/bot)
+    - [module:TensorFlow-CPU](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-cpu.md)
   - [Q-learning]
 2. **Configuração do Ambiente**
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
