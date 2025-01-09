@@ -19,13 +19,12 @@
   - [Robótica Índice](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/%C3%ADndice-robotica.md)
   - [RAG índice](https://github.com/0joseDark/my-AI-book/blob/main/doc-1-pt/RAG-1.md)
   - [Projeto RAG](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/RAG-projeto.md)
-  - hardware nessesario para  o projeto: raspberry pi 5
+  - hardware nessesario para  o projeto:
   - - [raspberrypi 5](https://www.raspberrypi.com)
     - [AI module](https://www.raspberrypi.com/products/ai-hat/)
   - - uma camera
     - projeto a estudar [picoGPT:](https://github.com/0joseDark/picoGPT)
     - another project:[bot](https://github.com/0joseDark/bot)
-    - [module:TensorFlow-CPU](https://github.com/0joseDark/my-AI-book/blob/main/doc-3-pt/TensorFlow-cpu.md)
   - [Q-learning]
 2. **Configuração do Ambiente**
    - [Configuração para Windows.](https://github.com/0joseDark/my-AI-book/blob/main/doc-2-pt/Windows.md)
